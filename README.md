@@ -28,7 +28,8 @@ Saat ini semakin banyak orang yang terkadang penampilannya tidak sesuai dengan j
 ## Dataset
 Pada dataset yang kami gunakan hanya terdapat dua macam yaitu mata pria dan wanita, yang terbagi menjadi data train, test, dan validation.
 
-Dataset ini terdiri dari 16.500 gambar pria dan wanita
+Dataset ini terdiri dari 16.500 gambar pria dan wanita.
+
 Seluruh gambar berukuran 53 x 53 pixels yang terbagi menjadi:
 - 10675 gambar pada data train
 - 1684 gambar pada data test
