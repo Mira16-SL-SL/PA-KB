@@ -2,9 +2,9 @@
 ## ✨ KELOMPOK 4 A2-20✨
 
 Anggota Kelompok:
-- 2009106033 - Muhammad Arsy Dewantara
-- 2009106027 - Indah Wulan Lestari
-- 2009106039 - Mira Sartika Lengkong
+1. 2009106033 - Muhammad Arsy Dewantara
+2. 2009106027 - Indah Wulan Lestari
+3. 2009106039 - Mira Sartika Lengkong
 
 ## Table of Content
 - [Jobs Desk](#jobs-desk)
@@ -30,9 +30,9 @@ Pada dataset yang kami gunakan hanya terdapat dua macam yaitu mata pria dan wani
 
 Dataset ini terdiri dari 16.500 gambar pria dan wanita
 Seluruh gambar berukuran 53 x 53 pixels yang terbagi menjadi:
-- 10675 gambar data train
-- 1684 gambar data test
-- 4141 gambar data validation
+- 10675 gambar pada data train
+- 1684 gambar pada data test
+- 4141 gambar pada data validation
 
 Dataset yang kami ambil merupakan salah satu data yang kami temukan di Kaggle.
 URL : https://www.kaggle.com/datasets/pavelbiz/eyes-rtte?select=maleeyes
