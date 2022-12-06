@@ -35,6 +35,7 @@ Seluruh gambar berukuran 53 x 53 pixels yang terbagi menjadi:
 - 4141 gambar pada data validation
 
 Dataset yang kami ambil merupakan salah satu data yang kami temukan di Kaggle.
+
 URL : https://www.kaggle.com/datasets/pavelbiz/eyes-rtte?select=maleeyes
 
 ## Tahapan Pengerjaan:
