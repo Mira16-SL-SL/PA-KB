@@ -23,7 +23,7 @@ Anggota Kelompok:
 
 
 ## Pendeteksi Mata Pria dan Wanita
-Saat ini semakin banyak orang yang terkadang penampilannya tidak sesuai dengan jenis kelaminnya. maka dari itu projek pendeteksi mata ini dapat digunakna untuk mengetahui jenis kelamin seseorang apakah ia pria atau wanita.
+Saat ini semakin banyak orang yang terkadang penampilannya tidak sesuai dengan jenis kelaminnya. Maka dari itu projek pendeteksi mata ini dapat digunakan untuk mengetahui jenis kelamin seseorang apakah ia pria atau wanita.
 
 ## Dataset
 Pada dataset yang kami gunakan hanya terdapat dua macam yaitu mata pria dan wanita, yang terbagi menjadi data train, test, dan validation.
