@@ -20,6 +20,7 @@ Anggota Kelompok:
 - Indah Wulan Lestari : Perbandingan Epoch, Evaluasi, Predict Data, Dokumentasi README
 - Mira Sartika Lengkong : Data Augmented, Data Analysis & Data Visualization
 
+
 ## Pendeteksi Mata Pria dan Wanita
 
 
