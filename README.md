@@ -45,7 +45,7 @@ URL : https://www.kaggle.com/datasets/pavelbiz/eyes-rtte?select=maleeyes
 > Pada data preprocessing membuat data gambar Augmentasi dan load data
 
 ### Data Analysis dan Visualization
-> Mengviusalisasi hasil prediksi dengan menampilkan visualisasi data dari class nya masing-masing.
+> Mengvisualisasi hasil prediksi dengan menampilkan visualisasi data dari class nya masing-masing.
 
 ### Data Modelling
 >  Membuat model Sequential dan Visualisasi : Accuracy & Loss Model.
