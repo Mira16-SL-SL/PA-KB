@@ -26,7 +26,7 @@ Anggota Kelompok:
 
 
 ## Pendeteksi Mata Pria dan Wanita
-
+Saat ini semakin banyak orang yang terkadang penampilannya tidak sesuai dengan jenis kelaminnya. maka dari itu projek pendeteksi mata ini dapat digunakna untuk mengetahui jenis kelamin seseorang apakah ia pria atau wanita.
 
 ## Dataset
 Pada dataset yang kami gunakan hanya terdapat dua macam yaitu mata pria dan wanita, yang terbagi menjadi data train, test, dan validation.
@@ -50,7 +50,7 @@ URL : https://www.kaggle.com/datasets/pavelbiz/eyes-rtte?select=maleeyes
 ### Data Analysis dan Visualization
 > Mengviusalisasi hasil prediksi dengan menampilkan visualisasi data dari class nya masing-masing.
 
-### Data Modeling
+### Data Modelling
 >  Membuat model Sequential dan Visualisasi : Accuracy & Loss Model.
 >  Evaluasi Model.
 >  Save Model
