@@ -14,6 +14,10 @@ Anggota Kelompok:
 - [Pendeteksi Mata Pria dan Wanita](#pendeteksi-mata-pria-dan-wanita)
 - [Datasets](#dataset)
 - [Tahapan Pengerjaan](#tahapan-pengerjaan)
+    - [Data Collecting](#data-collecting)
+    - [Data Preprocessing](#data-preprocessing)
+    - [Data Analysis dan Visualization](#data-analysis-dan-visualization)
+    - [Data Modelling](#data-modelling)
 
 ## Jobs Desk
 - Muhammad Arsy Dewantara : Ketua Kelompok, Split Data, Load data, Modelling Epoch, dan Save Model
@@ -38,7 +42,7 @@ URL : https://www.kaggle.com/datasets/pavelbiz/eyes-rtte?select=maleeyes
 
 ## Tahapan Pengerjaan:
 #### Data Collecting
-> Data collecting kami berdasarkan engan kumpulan data yang terdapat pada kaggle. 
+> Data collecting kami berdasarkan dengan kumpulan data yang terdapat pada kaggle. 
 
 ### Data Preprocessing
 > Pada data preprocessing membuat data gambar Augmentasi dan load data
