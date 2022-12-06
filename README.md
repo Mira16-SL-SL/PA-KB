@@ -2,12 +2,9 @@
 ## ✨ KELOMPOK 4 A2-20✨
 
 Anggota Kelompok:
-| NIM | Nama |
-| ------ | ------ |
-|2009106027 |Indah Wulan Lestari |
-|2009106033|Muhammad Arsy Dewantara |
-| 2009106039 |Mira Sartika Lengkong|
-
+- 2009106033 - Muhammad Arsy Dewantara
+- 2009106027 - Indah Wulan Lestari
+- 2009106039 - Mira Sartika Lengkong
 
 ## Table of Content
 - [Jobs Desk](#jobs-desk)
